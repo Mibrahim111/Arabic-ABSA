@@ -1,0 +1,22 @@
+# Core data handling
+pandas
+numpy
+openpyxl
+
+# Machine learning
+scikit-learn
+
+# Deep learning and transformers
+torch
+transformers
+accelerate
+datasets
+
+# Text preprocessing
+emoji
+
+# Demo app
+gradio
+
+# Notebook utilities
+tqdm
