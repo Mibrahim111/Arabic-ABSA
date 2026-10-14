@@ -323,18 +323,6 @@ If no aspect is detected, the output becomes:
 
 ---
 
-## Future Improvements
-
-Possible next steps:
-
-- Add more labeled Franco-Arabic examples
-- Add model comparison with AraBERT or XLM-R
-- Deploy the Gradio demo on Hugging Face Spaces
-- Add explainability for aspect predictions
-- Add a dashboard for analyzing review trends by business or category
-
----
-
 ## Author
 
-Created by **Kareem Maged** as part of a multilingual NLP project focused on Arabic customer review understanding.
+Created by **Mohammed Ibrahim** as part of a multilingual NLP project focused on Arabic customer review understanding.
